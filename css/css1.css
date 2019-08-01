@@ -1,0 +1,12 @@
+span{
+	font-size: 15px;
+	font-family: "宋体";
+	font-weight: bold;
+	color: green;
+}
+p{
+	font-weight: normal;
+	font-size: 20px;
+	font-family:"宋体";
+	color: blue;
+}
